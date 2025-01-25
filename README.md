@@ -5,7 +5,7 @@
    - **SonarQube (с PostgreSQL)**  
    - **Nexus**  
 
-![alt text](src/1.png)
+![alt text](src/2.jpg)
 
 
 ### **Задача 2  
