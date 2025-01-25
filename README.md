@@ -17,7 +17,7 @@
 
  Загрузил приложение и тесты в новый репозиторий GitLab.  
 
-![alt text](src/22.png)
+![alt text](src/1.jpg)
 
 ---
 
@@ -31,11 +31,8 @@
    - Выполняет тесты (`pytest`).  
    - Генерирует отчёт о покрытии тестами. 
 
-![alt text](src/3.png)
-![alt text](src/4.png)
-![alt text](src/5.png)
-![alt text](src/6.png)
-
+![alt text](src/5.jpg)
+![alt text](src/9.jpg)
 
 
 ### **Задача 4. Анализ кода с SonarQube**  
@@ -46,4 +43,4 @@
    - Получите ключ для интеграции.  
 
 
-![alt text](src/7.png)
+![alt text](src/4.png)
