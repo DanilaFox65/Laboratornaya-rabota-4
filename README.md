@@ -31,7 +31,7 @@
    - Выполняет тесты (`pytest`).  
    - Генерирует отчёт о покрытии тестами. 
 
-![alt text](src/5.jpg)
+![alt text](src/5.png)
 ![alt text](src/9.jpg)
 
 
@@ -43,4 +43,4 @@
    - Получите ключ для интеграции.  
 
 
-![alt text](src/4.png)
+![alt text](src/4.jpg)
